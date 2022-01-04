@@ -14,7 +14,7 @@ There is a dummy login system before creating, updating or deleting reviews.
 git clone https://github.com/SakibAlEmran/Rstaurant-Reviews.git
 ```
 2. Go to backend directory and install node dev dependecies
-3. create a .env file in backend directory and provide the RESTREVIEWS_DB_URI, RESTREVIEWS_DB_NS and PORT variable's value.
+3. create a .env file in backend directory and provide the RESTREVIEWS_DB_URI, RESTREVIEWS_DB_NS and PORT variable value.
 4. go to frontend directory and install node dev dependencis
 5. Start the backend server.
 6. Start the frondend server. By default react listen to 3000 port. It will open in the browser automatically, the url wil be: http://localhost:3000/
