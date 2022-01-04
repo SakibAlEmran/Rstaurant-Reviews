@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 //routes
-app.use("/api/v1/restaurants", restaurants);
+app.use("/api/restaurants", restaurants);
 
 //not found handler
 app.use("*", (req, res) => {
